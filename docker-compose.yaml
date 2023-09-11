@@ -1,0 +1,11 @@
+version: '3'
+services:
+  image1_service:
+    image: 18vaibhav002/angular_databse:latest
+    ports:
+      - "3000:3000" 
+
+  image2_service:
+    image: 18vaibhav002/angular_crud:latest
+    ports:
+      - "80:80"  
