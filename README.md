@@ -15,18 +15,22 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Working with the project
-This project has been created to demonstrate an Anguar Crud Service which works on the Http request. 
-I have used a Fake json server for this.
+This project has been created to demonstrate an Angular Crud Service that works on the HTTP request. 
+I have used a fake JSON server for this.
 
 to open the above project.
 download the zip file
-extract it then open command promt, get into your current working drectory.
-run "npm install"
-once installed successfully->open anothe command promt window and write "json-server --watch db.json"
-this will give you a link open that link then open productList.
+extract it then open the command prompt, and get into your current working directory.
+Run "npm install"
+Once installed successfully->open another command prompt window and write "json-server --watch db.json"
+This will give you a link Open that link then open productList.
 
-till then your ng serve command would have completed execution and would give a localhost link. open that.
+till then your ng serve command will have completed execution and will give a localhost link. Open that.
 
 That's it you are good to go.
+
+
+
+"The most simplified way to run the Application is to simply download the docker-compose.yml file, and type docker-compose up in your terminal...it works like magic."
 
 Thank me later.
